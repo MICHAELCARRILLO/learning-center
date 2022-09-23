@@ -60,5 +60,217 @@
       "description": "Local-rel (focal) symptc epi w complex partial seiz, ntrct",
       "published": false
     }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "firstName": "Cortie",
+      "lastName": "McGing"
+    },
+    {
+      "id": 2,
+      "firstName": "Magnum",
+      "lastName": "Mardell"
+    },
+    {
+      "id": 3,
+      "firstName": "Lauree",
+      "lastName": "Mansbridge"
+    },
+    {
+      "id": 4,
+      "firstName": "Wendell",
+      "lastName": "Krebs"
+    },
+    {
+      "id": 5,
+      "firstName": "Granny",
+      "lastName": "Champley"
+    },
+    {
+      "id": 6,
+      "firstName": "Babs",
+      "lastName": "de Mendoza"
+    },
+    {
+      "id": 7,
+      "firstName": "Myra",
+      "lastName": "Walkden"
+    },
+    {
+      "id": 8,
+      "firstName": "Hanni",
+      "lastName": "Stoneman"
+    },
+    {
+      "id": 9,
+      "firstName": "Sharyl",
+      "lastName": "Charkham"
+    },
+    {
+      "id": 10,
+      "firstName": "Eleni",
+      "lastName": "Emblen"
+    }
+  ],
+  "authorship": [
+    {
+      "instructorId": 1,
+      "tutorialId": 1
+    },
+    {
+      "instructorId": 2,
+      "tutorialId": 2
+    },
+    {
+      "instructorId": 3,
+      "tutorialId": 2
+    },
+    {
+      "instructorId": 4,
+      "tutorialId": 4
+    },
+    {
+      "instructorId": 5,
+      "tutorialId": 5
+    },
+    {
+      "instructorId": 6,
+      "tutorialId": 6
+    },
+    {
+      "instructorId": 7,
+      "tutorialId": 7
+    },
+    {
+      "instructorId": 8,
+      "tutorialId": 1
+    },
+    {
+      "instructorId": 9,
+      "tutorialId": 9
+    },
+    {
+      "instructorId": 10,
+      "tutorialId": 5
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "name": "Granite",
+      "levelId": 1
+    },
+    {
+      "id": 2,
+      "name": "Rubber",
+      "levelId": 2
+    },
+    {
+      "id": 3,
+      "name": "Plexiglass",
+      "levelId": 3
+    },
+    {
+      "id": 4,
+      "name": "Vinyl",
+      "levelId": 2
+    },
+    {
+      "id": 5,
+      "name": "Brass",
+      "levelId": 2
+    },
+    {
+      "id": 6,
+      "name": "Wood",
+      "levelId": 1
+    },
+    {
+      "id": 7,
+      "name": "Brass",
+      "levelId": 2
+    },
+    {
+      "id": 8,
+      "name": "Rubber",
+      "levelId": 3
+    },
+    {
+      "id": 9,
+      "name": "Brass",
+      "levelId": 3
+    },
+    {
+      "id": 10,
+      "name": "Plastic",
+      "levelId": 1
+    }
+  ],
+  "levels": [
+    {
+      "id": 1,
+      "difficulty": "Basic"
+    },
+    {
+      "id": 2,
+      "difficulty": "Medium"
+    },
+    {
+      "id": 3,
+      "difficulty": "Hard"
+    }
+  ],
+  "modules": [
+    {
+      "id": 1,
+      "name": "Hard Tile & Stone",
+      "courseId": 1
+    },
+    {
+      "id": 2,
+      "name": "Framing (Wood)",
+      "courseId": 2
+    },
+    {
+      "id": 3,
+      "name": "Construction Clean and Final Clean",
+      "courseId": 3
+    },
+    {
+      "id": 4,
+      "name": "Landscaping & Irrigation",
+      "courseId": 4
+    },
+    {
+      "id": 5,
+      "name": "Construction Clean and Final Clean",
+      "courseId": 5
+    },
+    {
+      "id": 6,
+      "name": "Drilled Shafts",
+      "courseId": 6
+    },
+    {
+      "id": 7,
+      "name": "Drilled Shafts",
+      "courseId": 7
+    },
+    {
+      "id": 8,
+      "name": "Granite Surfaces",
+      "courseId": 8
+    },
+    {
+      "id": 9,
+      "name": "Roofing (Asphalt)",
+      "courseId": 9
+    },
+    {
+      "id": 10,
+      "name": "Casework",
+      "courseId": 10
+    }
   ]
 }
